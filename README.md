@@ -1,2 +1,2 @@
-# RajBot
-A ChatBot on a Rajasthan Tourism developed for Rajasthan Hackathon 5.0
+# RajasthanTourism
+Tourism Chatbot for Rajasthan, 36 hrs Hackathon
